@@ -7,8 +7,6 @@ function App() {
             <div className="col-sm-12 col-md-12">
               <h2 className="section-heading text-center">GET IN TOUCH</h2>
               <p className="subheading text-center">
-                Lorem ipsum dolor sit amet, onsectetur adipiscing cons ectetur
-                nulla. Sed at ullamcorper risus.
               </p>
             </div>
           </div>
