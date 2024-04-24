@@ -1045,7 +1045,9 @@ hr.content {
     font-size: 1.5em; }
   .btn-icon:hover .fa {
     border-color:  #fec000; }
-
+..fa-brands{
+  font-size:20px;
+}
 .btn-rect {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
