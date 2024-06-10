@@ -3802,6 +3802,15 @@ Back To Top Section
   margin-bottom: 0;
   text-align: center; }
 
+.price .original {
+            text-decoration: line-through;
+            color: red;
+            margin-right: 10px;
+}
+.price .new {
+            color: white;
+            font-weight: bold;
+}
 /**
  * 7. - RESPONSIVE
  * -----------------------------------------------------------------------------
